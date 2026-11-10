@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the associated paper."
+title: "SHBC-Gesture11: A Dynamic Hand Gesture Dataset for Single-Hand Biomimetic Control"
+type: dataset
+authors:
+  - family-names: "宗"
+    given-names: "少云"
+  - family-names: "李"
+    given-names: "子阳"
+  - family-names: "庞"
+    given-names: "宇"
+version: "1.0.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/shaoyun233/SHBC-Gesture11"
+url: "https://github.com/shaoyun233/SHBC-Gesture11/releases/tag/v1.0.0"
